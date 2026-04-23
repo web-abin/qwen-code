@@ -1,0 +1,18 @@
+{
+  "name": "恋爱飞行棋",
+  "appid": "wx263f28168ac7a3a1",
+  "version": "3.0.0",
+  "description": "💞 恋爱飞行棋 Pro - 情侣互动游戏",
+  "primary": "pages/index/index",
+  "style": "v2",
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "恋爱飞行棋",
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "uniIdRouter": {}
+}
