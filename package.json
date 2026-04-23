@@ -1,0 +1,12 @@
+{
+  "name": "love-flight-chess",
+  "version": "3.0.0",
+  "description": "恋爱飞行棋微信小程序",
+  "main": "main.js",
+  "scripts": {
+    "dev:mp-weixin": "uni -p mp-weixin",
+    "build:mp-weixin": "uni build -p mp-weixin"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
